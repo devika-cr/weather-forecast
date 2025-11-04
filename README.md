@@ -19,3 +19,8 @@ It allows users to search for any city and get real-time weather updates like te
 - **Material UI**
 - **OpenWeatherMap API**
 - **CSS**
+
+## 🌐 Deployment
+This project is deployed on **Netlify**.  
+You can view it live here:  
+👉 [Live Demo](https://famous-kitten-e1f6cc.netlify.app/)
